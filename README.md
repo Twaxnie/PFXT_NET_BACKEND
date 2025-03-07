@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="http://pfxt.net/" target="blank"><img src="https://imgur.com/E0o0xU9" width="200" alt="PFXT LOGO" /></a>
+  <a href="http://pfxt.net/" target="blank"><img src="https://i.imgur.com/2JQemzN.png" width="200" alt="PFXT LOGO" /></a>
 </p>
 
 # PFXT Social Network Backend
